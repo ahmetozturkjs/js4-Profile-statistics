@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: cadetblue;
+}
+
+.imagediv{
+    
+    left: 50%;
+    transform: translateX(-50%);
+}
+.container-fluid{
+    height: 100vh;
+   
+   
+}
+.fa-solid, .fa-apple{
+    transform: translateY(-60%);
+}
+h2{
+    color: rgb(195, 97, 11);
+    
+}
+span{
+    font-weight: bolder;
+    color: aliceblue;
+}
